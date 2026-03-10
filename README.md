@@ -48,10 +48,19 @@ http://127.0.0.1:5000
 | PUT    | `/api/tasks/<id>` | Update task     |
 | DELETE | `/api/tasks/<id>` | Delete task     |
 
+Installation
+
+git clone <repo_link>
+cd flaskpro
+pip install -r requirements.txt
+python app.py
+
+The application is deployed using Render.
 ---
 
 ## By
 
 **Akankshya Rani Panda**
+
 
 
